@@ -1,0 +1,16 @@
+date,product,category,region,units_sold,unit_price,unit_cost
+2026-01-02,Laptop,Electronics,North,5,50000,40000
+2026-01-04,Phone,Electronics,South,12,20000,15000
+2026-01-06,Chair,Furniture,East,8,3000,2000
+2026-01-08,Desk,Furniture,West,4,7000,4500
+2026-01-10,Headphones,Electronics,North,20,1500,800
+2026-01-12,Notebook,Stationery,South,50,50,25
+2026-01-14,Phone,Electronics,East,10,20000,15000
+2026-01-16,Chair,Furniture,West,6,3000,2000
+2026-01-18,Laptop,Electronics,South,3,50000,40000
+2026-01-20,Pen,Stationery,North,100,10,4
+2026-01-22,Desk,Furniture,East,5,7000,4500
+2026-01-24,Headphones,Electronics,West,15,1500,800
+2026-01-26,Notebook,Stationery,North,70,50,25
+2026-01-28,Phone,Electronics,West,8,20000,15000
+2026-01-30,Pen,Stationery,South,120,10,4
